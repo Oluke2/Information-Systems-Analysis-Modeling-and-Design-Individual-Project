@@ -1,1 +1,2 @@
 # Information-Systems-Analysis-Modeling-and-Design-Individual-Project
+# Developed a spend-based Pharmacy Prescription Incentive System to address declining customer retention in U.S. pharmacies, exacerbated by rising medication costs, the pandemic, and competition from chain and online pharmacies. Key objectives were to enhance user experience, increase revenue, and re-acquire and retain customers through a unified loyalty program. The proposed system offers a mobile app interface, loyalty rewards, and integrations with existing pharmacy systems.
